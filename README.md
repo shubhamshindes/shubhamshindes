@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I'm Shubham Shinde!
+🚀 Passionate Software Developer | Backend & Cloud Enthusiast
 
-<!--
-**shubhamshindes/shubhamshindes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack:
+🔹 Languages: Java (Core, 8, 17), SQL, JavaScript
+🔹 Backend: Spring Boot, Hibernate, JPA, Microservices, REST APIs
+🔹 Frontend: HTML, CSS, React
+🔹 Databases: MySQL, PostgreSQL
+🔹 Cloud & DevOps: AWS (EC2, S3, Lambda, RDS, CloudWatch), Docker, Jenkins, Git
+🔹 Testing & Tools: JUnit, Mockito, Postman, Swagger, SonarQube, Kafka
 
-Here are some ideas to get you started:
+⚡ What I Do:
+✔️ Build scalable backend solutions with Java & Spring Boot
+✔️ Design & integrate REST APIs for seamless system interactions
+✔️ Optimize SQL queries & database performance
+✔️ Implement CI/CD pipelines for smooth deployments
+✔️ Leverage AWS to ensure application scalability & reliability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect!
+🔗 LinkedIn: linkedin.com/in/shubhamshindes
+💻 GitHub: github.com/shubhamshindes
+📧 Email: shubhamshinde.link@gmail.com
