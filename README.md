@@ -1,7 +1,8 @@
 <h1 align="center"> <img src="https://github.com/shubhamshindes/shubhamshindes/blob/main/name.svg" alt="Shubham Shinde" /> </h1>
 <h1 align="center">Hi 👋, Welcome to my profile!</h1>
+
 <p align="center">
-  <img src="https://assets-global.website-files.com/5e0f1144930a8bc8aace526c/65d5bfdfd47c1b5be1847c95_65d02a69bb7642d3cbd99ba9-7b0cc31922f9059b7cb1944ca7987df5.jpeg" alt="Coding Image"  />
+  <img src="https://github.com/shubhamshindes/shubhamshindes/blob/main/Spyk3yTech.gif" alt="spyk3yTech"  />
 </p>
 <h3 align="center">Code, Collaborate, and Create: Streamlining Development with Precision</h3>
 
