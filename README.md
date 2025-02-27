@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="https://github.com/shubhamshindes/shubhamshindes/blob/main/name.svg" alt="Shubham Shinde" /> </h1>
-<h1 align="center">Hi 👋, Welcome to my profile!</h1>
+<h1 align="center">Hello 👋, Welcome to my profile!</h1>
 
 <p align="center">
   <img src="https://github.com/shubhamshindes/shubhamshindes/blob/main/Spyk3yTech.gif" alt="spyk3yTech"  />
