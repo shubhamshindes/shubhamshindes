@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamshindes](https://github.com/shubhamshindes)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SL8YdokwGW20xj5mxar7NeSDfY53LS1S/view?usp=drive_link](https://drive.google.com/file/d/1SL8YdokwGW20xj5mxar7NeSDfY53LS1S/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1SL8YdokwGW20xj5mxar7NeSDfY53LS1S/view?usp=drive_link](https://drive.google.com/file/d/1SL8YdokwGW20xj5mxar7NeSDfY53LS1S/view?usp=drive_link)](https://drive.google.com/file/d/1rkVdLkY9D9yno3d654SpHabn6-ayVWbA/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
