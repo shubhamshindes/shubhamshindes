@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, Welcome to my profile!</h1>
 
 <p align="center">
-  <img src="https://github.com/shubhamshindes/shubhamshindes/blob/main/Spyk3yTech.gif" alt="spyk3yTech"  />
+  <img src="https://github.com/shubhamshindes/shubhamshindes/blob/main/Spyk3yTech.gif" alt="spyk3yTech"   width="400" />
 </p>
 <h3 align="center">Code, Collaborate, and Create: Streamlining Development with Precision</h3>
 
